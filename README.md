@@ -1,5 +1,5 @@
 ## Reduce Function
-## JavaScript Basics – `reduce()` Function Examples
+### JavaScript Basics – `reduce()` Function Examples
 
 This repository includes beginner-friendly examples showing how to use the `reduce()` method in JavaScript. The `reduce()` function is used to reduce an array to a single value (like a sum, object, or flattened array).
 
